@@ -92,7 +92,7 @@ var loadGameEnd;
     { src: "game_sample/js/bat.js", lookFor: "Bat" },
     { src: "game_sample/js/priest.js", lookFor: "Priest" },
     { src: "game_sample/js/guard.js", lookFor: "Guard" },
-    { src: "game_sample/js/squid.js", lookFor: "Squid" },
+    { src: "game_sample/js/Squid.js", lookFor: "Squid" },
     { src: "game_sample/js/specialEnemys.js", lookFor: "SpecialEnemys" },
     { src: "game_sample/js/npc.js", lookFor: "NPC" },
     { src: "game_sample/js/store.js", lookFor: "Store" },
